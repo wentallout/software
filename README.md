@@ -2,4 +2,4 @@
 
 ## Music Player
 
-MusicBee - https://getmusicbee.com/
+foobar - https://www.foobar2000.org/
