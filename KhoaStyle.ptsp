@@ -1,0 +1,12 @@
+title: KhoaStyle
+description: ""
+author: Khoa
+license: GNU Public License version 2
+version: '1.0'
+last_updated: 2023-05-23 20:09:00 UTC
+script_language_version: '1.1'
+script: |
+  %albumartist%/
+  %album%/
+  %title%
+id: ded33565-8341-433d-a72c-80e4bf30b403
