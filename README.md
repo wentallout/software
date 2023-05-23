@@ -4,6 +4,10 @@
 
 foobar - https://www.foobar2000.org/
 
+## Music Meta Tagging
+
+Picard - https://picard-docs.musicbrainz.org/v2.8/en/
+
 ## Browser 
 
 Opera GX - https://www.opera.com/gx
