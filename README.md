@@ -4,6 +4,10 @@ foobar - https://www.foobar2000.org/
 
 Georgia Reborn theme for foobar - https://github.com/TT-ReBORN/Georgia-ReBORN
 
+## Video Player
+
+mpv - https://github.com/Zabooby/mpv-config
+
 ## Music Meta Tagging
 
 Picard - https://picard-docs.musicbrainz.org/v2.8/en/
