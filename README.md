@@ -21,3 +21,7 @@ Opera GX - https://www.opera.com/gx
 Bypass Paywalls - https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean
 
 Sponsor Block - https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone
+
+## Disk Space Analyzer
+
+https://diskanalyzer.com/
