@@ -1,3 +1,7 @@
+## ZIP
+
+PeaZip - https://peazip.github.io/
+
 ## Music Player
 
 foobar - https://www.foobar2000.org/
