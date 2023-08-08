@@ -29,3 +29,9 @@ Sponsor Block - https://chrome.google.com/webstore/detail/sponsorblock-for-youtu
 ## Disk Space Analyzer
 
 https://diskanalyzer.com/
+
+## Bloatware/Security related
+
+https://github.com/builtbybel/privatezilla
+
+https://github.com/PocketAppZ/LoveWindowsAgain
