@@ -1,6 +1,6 @@
 ## Recording/Streaming
 
-https://obsproject.com/
+OBS - https://obsproject.com/
 
 ## Notepad
 
