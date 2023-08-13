@@ -30,6 +30,8 @@ Opera GX - https://www.opera.com/gx
 
 ## Browser Extension
 
+Fonts Ninja - https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh
+
 Bypass Paywalls - https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean
 
 Sponsor Block - https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone
