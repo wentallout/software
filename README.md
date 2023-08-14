@@ -1,3 +1,7 @@
+## VPN
+
+List of recommended VPN: https://www.techlore.tech/vpn
+
 ## Recording/Streaming
 
 OBS - https://obsproject.com/
