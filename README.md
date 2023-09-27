@@ -61,3 +61,7 @@ https://diskanalyzer.com/
 https://github.com/builtbybel/privatezilla
 
 https://github.com/PocketAppZ/LoveWindowsAgain
+
+## Discord
+
+Aliucord and Vencord
