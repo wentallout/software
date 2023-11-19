@@ -10,6 +10,10 @@ https://www.diskanalyzer.com/
 
 Lively Wallpaper https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7
 
+## Remove Old Drivers from your PC
+
+https://github.com/lostindark/DriverStoreExplorer
+
 ## VPN
 
 List of recommended VPN: https://www.techlore.tech/vpn
