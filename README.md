@@ -58,6 +58,8 @@ Bypass Paywalls - https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean
 
 Sponsor Block - https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone
 
+uBlock Origin - https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+
 ## Disk Space Analyzer
 
 WizTree - https://diskanalyzer.com/
