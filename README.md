@@ -60,7 +60,7 @@ Sponsor Block - https://chrome.google.com/webstore/detail/sponsorblock-for-youtu
 
 ## Disk Space Analyzer
 
-https://diskanalyzer.com/
+WizTree - https://diskanalyzer.com/
 
 ## Bloatware/Security related
 
