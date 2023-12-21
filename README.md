@@ -10,6 +10,8 @@ https://www.diskanalyzer.com/
 
 Lively Wallpaper https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7
 
+https://hector.me/wavey
+
 ## Remove Old Drivers from your PC
 
 https://github.com/lostindark/DriverStoreExplorer
