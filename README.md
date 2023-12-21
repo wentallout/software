@@ -50,6 +50,10 @@ Picard - https://picard-docs.musicbrainz.org/v2.8/en/
 
 Opera GX - https://www.opera.com/gx
 
+Thorium - https://thorium.rocks
+
+Arc Browser - https://arc.net
+
 ## Browser Extension
 
 Fonts Ninja - https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh
