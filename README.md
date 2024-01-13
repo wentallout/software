@@ -1,3 +1,7 @@
+## Other
+
+https://cyberraidentech.blogspot.com/
+
 ## Optimize Windows
 
 https://www.sordum.org/
